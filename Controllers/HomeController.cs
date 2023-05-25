@@ -37,6 +37,9 @@ public class HomeController : Controller
     {
         return View();
     }
+    public IActionResult Test1(){
+        return View();
+    }
 
     
 
